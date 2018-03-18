@@ -1,0 +1,17 @@
+{
+  "name": "Grunt SPA",
+  "version": "1.0.0",
+  "description": "Grunt SPA",
+  "main": "index.html",
+  "keywords": [
+    "grunt",
+    "nodejs"
+  ],
+  "author": "Praveen Mistry",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.2",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.3.0"
+  }
+}
